@@ -1,5 +1,7 @@
 # Fitgirl Automation Downloader
 
+⚠️ Note: Currently only work for DataNodes links
+
 ## Overview
 This project automates the downloading of files from a list of URLs using Selenium. It dynamically monitors downloads, handles errors, and prevents unwanted ads and popups. The user can select both the download folder and the file containing the list of URLs through a graphical interface.
 
