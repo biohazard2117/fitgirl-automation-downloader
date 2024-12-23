@@ -13,7 +13,7 @@ This project automates the downloading of files from a list of URLs using Seleni
 - **Dynamic URL Input:** Users can select a text file containing URLs to process.
 
 ## Tutorial Video 🎥
-[![Watch the tutorial](assets/tutorial-thumbnail.png)](https://vimeo.com/1041623620?share=copy)
+[![Watch the tutorial](thumbnail.png)](https://vimeo.com/1041623620?share=copy)
 
 Click the image above to watch the video tutorial!
 
