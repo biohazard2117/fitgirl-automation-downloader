@@ -13,7 +13,9 @@ This project automates the downloading of files from a list of URLs using Seleni
 - **Dynamic URL Input:** Users can select a text file containing URLs to process.
 
 ## Tutorial Video 🎥
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041623620?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Fitgirl Automation Downloader"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the tutorial](assets/tutorial-thumbnail.png)](https://vimeo.com/1041623620?share=copy)
+
+Click the image above to watch the video tutorial!
 
 ## Requirements
 - Python 3.x
