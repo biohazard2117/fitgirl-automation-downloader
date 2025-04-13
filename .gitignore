@@ -8,3 +8,10 @@ main - Copy.ipynb
 main.ipynb
 
 main - Copy (2).ipynb
+
+# virtual env files
+.venv
+
+# log files
+*.log
+*.log.*
